@@ -1,6 +1,6 @@
 accelerate==1.6.0
 diffusers==0.33.1
-transformers==4.46.2
+transformers==5.0.0rc3
 gradio==5.23.0
 sentencepiece==0.2.0
 pillow==11.1.0
